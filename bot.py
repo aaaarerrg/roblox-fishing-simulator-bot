@@ -130,3 +130,13 @@ while keyboard.is_pressed('q') == False:
 		exit()
 	counter -= 1
 	time.sleep(0.025)
+
+cd roblox-fishing-simulator-bot
+
+pyautogui==0.9.54
+keyboard==0.13.5
+pywin32==306
+pydirectinput==1.0.4
+
+python fishing_script.py
+
